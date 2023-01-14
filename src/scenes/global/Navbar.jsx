@@ -68,6 +68,7 @@ const Navbar = () => {
                 height: "14px",
                 minWidth: "13px",
               },
+
             }}
           >
             <IconButton
